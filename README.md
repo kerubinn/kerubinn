@@ -23,7 +23,7 @@
 <div align="center">
 <a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/}marianohubs/marianohubs/blob/main/HTML-CSS.png" width="400" alt="¿QUE ES LA PROGRAMACION?"></a>
 <p>
-<a href="https://youtu.be/b1hvow9xFFg?si=7BKYiFK3PLyBCmiV"_blank">
+<a href="https://youtube.com/shorts/JkezdK9M96U?si=4umvxR2pF-L3olH7"_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtu.be/P7md8VVR1I8?si=PQvvO-hUZYoXIsvJ"_blank">

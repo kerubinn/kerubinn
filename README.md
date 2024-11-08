@@ -3,6 +3,11 @@
 <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="500"/>
 
 <h3 align="center">Te enseño a programar</h3>
+ 🔭 I’m currently working on **Artificial Intelligence**
+
+- 🌱 I’m currently learning **GitHub**
+
+- 👯 I’m looking to collaborate on **tesla**
 
 - 📫 How to reach me **luisfernando007@gmail.com**
 

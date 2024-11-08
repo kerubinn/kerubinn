@@ -3,7 +3,7 @@
 <td width="50%">
 <h3 align="center">Como hacer tu primera pagina</h3>
 <div align="center">
-<a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/marianohubs/marianohubs/blob/main/HTML.png" width="400" alt="Curso básico HTML"></a>
+<a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/marianohubs/marianohubs/blob/main/HTML.png" width="400" alt="Tu primera pagina"></a>
 <p>
 <a href="https://github.com/marianohubs/marianohubs" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">

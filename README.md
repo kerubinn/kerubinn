@@ -5,7 +5,7 @@
 <div align="center">
 <a href="https://github.com/kerubinn" target="_blank"><img src="https://github.com/marianohubs/marianohubs/blob/main/HTML.png" width="400" alt="Tu primera pagina"></a>
 <p>
-<a href="https://github.com/marianohubs/marianohubs" target="_blank">
+<a href="https://github.com/kerubinn" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://youtube.com/shorts/LMxc7000nPg?si=M6U4WKZexGFwV26k"_blank">

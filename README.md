@@ -1,5 +1,5 @@
 <img src="![b4nner](https://github.com/user-attachments/assets/1a640e74-1436-4edf-831d-1e7c46092eed)
-Cabecer.png" alt="Banner" Width="100%" height="450px">
+b4nner.png" alt="Banner" Width="100%" height="450px">
 <table>
 <tr>
 <td width="50%">

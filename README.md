@@ -1,7 +1,3 @@
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<
-
 
 <h1 align="center">Hi 👋, I'm luis</h1>
 <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="500"/>

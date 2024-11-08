@@ -8,7 +8,7 @@
 <a href="https://github.com/marianohubs/marianohubs" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/P7md8VVR1I8?si=PQvvO-hUZYoXIsvJ"_blank">
+<a href="https://youtube.com/shorts/LMxc7000nPg?si=M6U4WKZexGFwV26k"_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>

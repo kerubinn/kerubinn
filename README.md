@@ -1,4 +1,4 @@
-<img src="b4nner.png" alt="Ba4nner" Width="100%" height="450px">
+<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
 <table>
 <tr>
 <td width="50%">

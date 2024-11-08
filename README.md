@@ -21,7 +21,7 @@
                <br>
 <h3 align="center">¿QUE ES LA PROGRAMACION?</h3>
 <div align="center">
-<a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/}marianohubs/marianohubs/blob/main/HTML-CSS.png" width="400" alt="Curso básico HTML con CSS"></a>
+<a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/}marianohubs/marianohubs/blob/main/HTML-CSS.png" width="400" alt="¿QUE ES LA PROGRAMACION?"></a>
 <p>
 <a href="https://youtu.be/b1hvow9xFFg?si=7BKYiFK3PLyBCmiV"_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">

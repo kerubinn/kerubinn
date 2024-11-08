@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm luis</h1>
 <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="500"/>
 
-sobre mi
+<h3 align="center">sobre mi:</h3>
 <h3 align="center">Te enseño a programar</h3>
 
 - 📫 How to reach me **luisfernando007@gmail.com**

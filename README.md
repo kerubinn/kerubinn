@@ -26,7 +26,7 @@
 <a href="https://youtube.com/shorts/JkezdK9M96U?si=4umvxR2pF-L3olH7"_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/P7md8VVR1I8?si=PQvvO-hUZYoXIsvJ"_blank">
+<a href="https://youtube.com/shorts/JkezdK9M96U?si=4umvxR2pF-L3olH7"_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>

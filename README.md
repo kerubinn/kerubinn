@@ -12,7 +12,7 @@
 - 📫 How to reach me **luisfernando007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-https://aleen42.github.io/badges/src/google_plus.svg
+[![GitHub followers](h ttps://img.shields.io/github/followers/Fernandohubs?style=social)](h ttps://github.com/Fernandohubs)
 
 
 <table>

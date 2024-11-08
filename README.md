@@ -19,7 +19,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">INCORPORACION DE CSS</h3>
+<h3 align="center">¿QUE ES LA PROGRAMACION?</h3>
 <div align="center">
 <a href="https://github.com/marianohubs/marianohubs" target="_blank"><img src="https://github.com/}marianohubs/marianohubs/blob/main/HTML-CSS.png" width="400" alt="Curso básico HTML con CSS"></a>
 <p>

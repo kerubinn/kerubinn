@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a programar con HTML <strong>Como hacer una pagina  web basica</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. </p>
+<p>Como hacer una pagina  web basica</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. </p>
 </div>
 
 </td>

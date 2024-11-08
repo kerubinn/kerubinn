@@ -1,4 +1,4 @@
-<img src="b4nner.png" alt="Banner" Width="100%" height="450px">
+<img src="b4nner.png" alt="Ba4nner" Width="100%" height="450px">
 <table>
 <tr>
 <td width="50%">

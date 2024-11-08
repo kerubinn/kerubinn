@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a integrar CSS a tu HTML <strong>COMO DESCARGAR VS CODE🔍🔍😲😲</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p> <strong>¿Que es la programacion?🔍🔍😲😲</strong> - En este video aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. .</p>
 </div>
   
 </td>  
